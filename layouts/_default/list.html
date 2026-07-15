@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="page-hero"><div class="wrap narrow-left"><p class="eyebrow">{{ .Params.eyebrow }}</p><h1>{{ .Title }}</h1><p class="lead">{{ .Description }}</p></div></header>
-<section class="section"><div class="wrap"><div class="card-grid">{{ range .Pages.ByWeight }}<a class="card" href="{{ .RelPermalink }}"><span class="card-kicker">{{ .Params.kicker }}</span><h2>{{ .Title }}</h2><p>{{ .Description }}</p><span class="arrow">→</span></a>{{ end }}</div></div></section>
+<section class="section"><div class="wrap"><div class="card-grid solution-grid">{{ range .Pages.ByWeight }}<a class="card" href="{{ .RelPermalink }}"><span class="card-kicker">{{ .Params.kicker }}</span><h2>{{ .Title }}</h2><p>{{ .Description }}</p><span class="arrow">→</span></a>{{ end }}</div></div></section>
 {{ with .Content }}<section class="section band"><div class="wrap prose">{{ . }}</div></section>{{ end }}
 {{ partial "cta.html" . }}
 {{ end }}
