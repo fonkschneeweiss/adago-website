@@ -8,4 +8,4 @@ outcome: Berechenbare Entscheidungen aus komplexen technischen Modellen.
 ## Von der Fragestellung zum belastbaren Modell
 Technische Simulationen helfen nur, wenn Annahmen, Randbedingungen und Datenqualität transparent bleiben.
 
-Wir unterstützen bei numerischer Simulation, FEM, Optimierung, wissenschaftlichem Rechnen und Datenanalyse. Modelle und Auswertungen werden automatisiert, versioniert und so dokumentiert, dass Ergebnisse nachvollziehbar bleiben.
+Wir unterstützen bei numerischer Simulation, FEM, Optimierung, wissenschaftlichem Rechnen und Datenanalyse. Modelle und Auswertungen werden automatisiert, versioniert und so aufbereitet, dass Ergebnisse nachvollziehbar bleiben.
