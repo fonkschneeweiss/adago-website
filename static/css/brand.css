@@ -1,7 +1,7 @@
 .brand img {
   display: block;
   height: auto;
-  width: 126px;
+  width: 150px;
 }
 
 [data-theme="dark"] .brand img {
