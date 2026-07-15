@@ -12,4 +12,5 @@
 @media(max-width:560px){.method-section .process-list{display:block}.method-section .process-list li,.method-section .process-list li+li{min-height:0;padding:22px 0!important;border-right:0;border-top:1px solid rgba(255,255,255,.22)}.method-section .process-list li:first-child{border-top:0}}
 .problem-grid,.card-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.card-grid>.card,.problem-grid>.problem{min-width:0;overflow-wrap:anywhere}
 .solution-grid{grid-template-columns:repeat(2,minmax(0,1fr));max-width:1040px;margin-inline:auto}.solution-grid .card{min-height:270px}.solution-grid .card h2{font-size:clamp(1.55rem,2.5vw,2.2rem);max-width:100%;overflow-wrap:anywhere}
+.solution-grid .card-cta{background:var(--navy);color:#fff}.solution-grid .card-cta .card-kicker{color:#8ed8cb}.solution-grid .card-cta p{color:#d5e0e2}.solution-grid .card-cta:hover{background:var(--accent)}
 @media(max-width:560px){.solution-grid{grid-template-columns:1fr}.solution-grid .card{min-height:230px}}
