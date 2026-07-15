@@ -1,8 +1,6 @@
 .brand img {
   display: block;
-  height: 44px;
-  object-fit: cover;
-  object-position: center;
+  height: auto;
   width: 126px;
 }
 
