@@ -12,13 +12,6 @@ Wir sind kein großer Apparat zwischen Ihnen und der Umsetzung. Sie sprechen dir
 
 ## Das Team
 
-### Sean Schneeweiß
-**Software Engineer · Development & Operations**
-
-![Sean Schneeweiß](/images/sean-schneeweiss.avif)
-
-Sean verantwortet Softwareentwicklung, Cloud-Infrastruktur und den zuverlässigen Betrieb technischer Systeme. Sein Schwerpunkt liegt auf klarer Fehleranalyse, Automatisierung und Lösungen, die auch nach Jahren noch verstanden werden. Er mag besonders die Momente, in denen aus einem diffusen „Es funktioniert nicht“ wieder ein nachvollziehbares System wird.
-
 ### Nicole Kapferer-Schneeweiß
 **Ärztin · Medical IT**
 
@@ -32,6 +25,13 @@ Nicole verbindet medizinische Praxis und Forschung mit technologischer Entwicklu
 ![Robin Fonk](/images/robin-fonk.avif)
 
 Robin verantwortet Forschung und Engineering. Seine Arbeit umfasst wissenschaftliches Rechnen, Simulation, Optimierung und die Überführung neuer Ideen in nachvollziehbare technische Modelle. Ihn interessiert, wie aus einer guten Idee ein Modell wird, das andere prüfen, wiederverwenden und weiterentwickeln können.
+
+### Sean Schneeweiß
+**Software Engineer · Development & Operations**
+
+![Sean Schneeweiß](/images/sean-schneeweiss.avif)
+
+Sean verantwortet Softwareentwicklung, Cloud-Infrastruktur und den zuverlässigen Betrieb technischer Systeme. Sein Schwerpunkt liegt auf klarer Fehleranalyse, Automatisierung und Lösungen, die auch nach Jahren noch verstanden werden. Er mag besonders die Momente, in denen aus einem diffusen „Es funktioniert nicht“ wieder ein nachvollziehbares System wird.
 
 ## Unsere Grundsätze
 
