@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-copy"><p class="eyebrow">Infrastruktur · Software · Forschung</p><h1>Sichere, nachhaltige und souveräne digitale Infrastruktur.</h1><p class="lead">AdaGo plant, realisiert und betreibt verlässliche IT-Infrastruktur, Cloud-Plattformen, Kollaborationsumgebungen und individuelle Software für Forschung, Gesundheitswesen und Unternehmen.</p><div class="actions"><a class="button" href="mailto:info@adago.org?subject=Projektanfrage">Projekt besprechen</a><a class="text-link" href="/loesungen/">Lösungen entdecken <span aria-hidden="true">→</span></a></div><p class="credibility">Cloud · Identity · Collaboration · Open Source · Research IT · Software Engineering</p></div>
+    <div class="topology" role="img" aria-label="Abstrakte Darstellung einer verbundenen digitalen Infrastruktur"><span class="node n1">Identität</span><span class="node n2">Cloud</span><span class="node n3">Daten</span><span class="node n4">Teams</span><span class="node n5">Software</span><span class="core">AdaGo</span></div>
+  </div>
+</section>
+<section class="statement"><div class="wrap narrow"><p>Technologie sollte Ihre Organisation unterstützen, <strong>nicht von einem Anbieter abhängig machen.</strong></p></div></section>
+<section class="section"><div class="wrap"><p class="eyebrow">Kommt Ihnen das bekannt vor?</p><h2>Komplexe IT beginnt selten auf der grünen Wiese.</h2><div class="problem-grid">
+{{ range .Params.problems }}<article class="problem"><span class="number">0{{ .number }}</span><h3>{{ .title }}</h3><p>{{ .text }}</p><a href="{{ .url }}">Unser Ansatz <span aria-hidden="true">→</span></a></article>{{ end }}
+</div></div></section>
+<section class="section band"><div class="wrap split"><div><p class="eyebrow">Wie wir arbeiten</p><h2>Technologieentscheidungen mit Blick auf morgen.</h2></div><div><p class="large-copy">Wir kombinieren fundierte Analyse, saubere Dokumentation und pragmatische Umsetzung. Offene Technologien empfehlen wir dort, wo sie Kontrolle, Wartbarkeit und langfristigen Nutzen schaffen.</p><ul class="check-list"><li>Anforderungen vor Produkten</li><li>Automatisierung statt Handarbeit</li><li>Wissen bleibt in Ihrer Organisation</li><li>Betrieb und Weiterentwicklung mitgedacht</li></ul></div></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><div><p class="eyebrow">Lösungsfelder</p><h2>Von der Identität bis zur Anwendung.</h2></div><a class="text-link" href="/loesungen/">Alle Lösungen →</a></div><div class="card-grid">{{ range first 6 (where site.RegularPages "Section" "loesungen") }}<a class="card" href="{{ .RelPermalink }}"><span class="card-kicker">{{ .Params.kicker }}</span><h3>{{ .Title }}</h3><p>{{ .Description }}</p><span class="arrow">→</span></a>{{ end }}</div></div></section>
+{{ partial "cta.html" . }}
+{{ end }}

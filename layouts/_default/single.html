@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article>
+  <header class="page-hero"><div class="wrap narrow-left"><p class="eyebrow">{{ .Params.eyebrow | default .CurrentSection.Title }}</p><h1>{{ .Title }}</h1><p class="lead">{{ .Description }}</p></div></header>
+  <div class="section"><div class="wrap article-grid"><aside class="page-aside"><span>Auf einen Blick</span>{{ with .Params.outcome }}<strong>{{ . }}</strong>{{ end }}</aside><div class="prose">{{ .Content }}</div></div></div>
+</article>
+{{ partial "cta.html" . }}
+{{ end }}

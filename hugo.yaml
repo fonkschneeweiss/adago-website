@@ -1,0 +1,39 @@
+baseURL: https://adago.org/
+title: AdaGo
+defaultContentLanguage: de
+languages:
+  de:
+    label: Deutsch
+    locale: de-DE
+    weight: 1
+enableRobotsTXT: true
+summaryLength: 24
+outputs:
+  home: [HTML, RSS]
+pagination:
+  pagerSize: 12
+params:
+  description: Sichere, nachhaltige und souveräne digitale Infrastruktur für Forschung, Gesundheitswesen und Unternehmen.
+  email: info@adago.org
+  address: Lange Straße 16/1, 89160 Dornstadt
+  accent: "#1f766e"
+  socialImage: /images/adago-social.png
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+menus:
+  main:
+    - {name: Start, pageRef: /, weight: 10}
+    - {name: Lösungen, pageRef: /loesungen, weight: 20}
+    - {name: Branchen, pageRef: /branchen, weight: 30}
+    - {name: Projekte, pageRef: /projekte, weight: 40}
+    - {name: Über uns, pageRef: /ueber-uns, weight: 50}
+    - {name: Kontakt, pageRef: /kontakt, weight: 60}
+privacy:
+  googleAnalytics: {disable: true}
+  instagram: {disable: true}
+  x: {disable: true}
+  youtube: {disable: true}

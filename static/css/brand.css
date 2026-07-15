@@ -1,0 +1,23 @@
+.brand img {
+  display: block;
+  height: auto;
+  width: 126px;
+}
+
+.footer-brand img {
+  filter: brightness(0) invert(1);
+}
+
+.prose img {
+  aspect-ratio: 1;
+  border-radius: 4px;
+  margin: 0.5rem 0 1.5rem;
+  max-width: 100%;
+  object-fit: cover;
+  width: 220px;
+}
+
+.split > * {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}

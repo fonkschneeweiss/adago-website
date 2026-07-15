@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+{{ $description := .Description | default .Summary | default site.Params.description | plainify }}
+<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+<meta name="description" content="{{ $description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/brand.css" | relURL }}">
+<link rel="alternate" type="application/rss+xml" href="{{ "index.xml" | absURL }}" title="AdaGo">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="AdaGo">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"AdaGo GbR","url":"https://adago.org/","email":"info@adago.org","address":{"@type":"PostalAddress","streetAddress":"Lange Straße 16/1","postalCode":"89160","addressLocality":"Dornstadt","addressCountry":"DE"}}</script>
