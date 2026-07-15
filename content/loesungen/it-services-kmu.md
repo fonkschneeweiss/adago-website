@@ -8,6 +8,6 @@ outcome: Ein ansprechbarer IT-Partner statt einer Sammlung einzelner Dienstleist
 ## Externe IT-Abteilung
 Für KMU, Start-ups, Freiberufliche, Praxen und gemeinnützige Organisationen übernehmen wir Planung und Betrieb der täglichen IT.
 
-Das umfasst Microsoft-365-Integration und offene Alternativen, Datei- und Druckdienste, Backup, VPN, mobiles Arbeiten, Cloud-Migration, Domains, DNS, TLS-Zertifikate und Endgeräteverwaltung.
+Das umfasst Microsoft-365-Integration und offene Alternativen, Datei- und Druckdienste, Backup, VPN, mobiles Arbeiten, Cloud-Migration, Domains, DNS, TLS-Zertifikate und Endgeräteverwaltung. Dazu gehören auch Gruppenrichtlinien, Software-Updates und sicherer Fernzugriff für Windows- und Linux-Arbeitsplätze.
 
 Wir strukturieren Zuständigkeiten und schaffen Übersicht, damit Wachstum nicht automatisch mehr Chaos bedeutet.
