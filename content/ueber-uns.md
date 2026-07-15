@@ -32,10 +32,3 @@ Robin verantwortet Forschung und Engineering. Seine Arbeit umfasst wissenschaftl
 ![Sean Schneeweiß](/images/sean-schneeweiss.avif)
 
 Sean verantwortet Softwareentwicklung, Cloud-Infrastruktur und den zuverlässigen Betrieb technischer Systeme. Sein Schwerpunkt liegt auf klarer Fehleranalyse, Automatisierung und Lösungen, die auch nach Jahren noch verstanden werden. Er mag besonders die Momente, in denen aus einem diffusen „Es funktioniert nicht“ wieder ein nachvollziehbares System wird.
-
-## Unsere Grundsätze
-
-- Anforderungen bestimmen die Technologie, nicht umgekehrt.
-- Offene Standards schaffen langfristige Handlungsfreiheit.
-- Automatisierung reduziert Fehler und wiederkehrenden Aufwand.
-- Gute Übergaben stärken das Wissen in Ihrer Organisation.
