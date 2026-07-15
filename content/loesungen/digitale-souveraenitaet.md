@@ -16,7 +16,7 @@ Wir erfassen Abhängigkeiten, Schutzbedarf und tatsächliche Betriebsanforderung
 - Self-Hosting und Hybrid Cloud
 - DSGVO-bewusste Infrastruktur
 - Exit- und Migrationsstrategien
-- Dokumentierte Schnittstellen und Datenexporte
+- Offene Schnittstellen und verlässliche Datenexporte
 
 ## Das Ergebnis
 Ihre Organisation gewinnt Handlungsspielraum zurück, ohne funktionierende Systeme vorschnell zu ersetzen.

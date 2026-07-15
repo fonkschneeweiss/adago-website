@@ -4,7 +4,7 @@ description: Sichere, nachhaltige und souveräne digitale Infrastruktur für For
 problems:
   - number: 1
     title: Unsere IT ist über viele Jahre gewachsen.
-    text: Niemand überblickt mehr alle Abhängigkeiten. Wir analysieren, dokumentieren und modernisieren bestehende Infrastruktur.
+    text: Niemand überblickt mehr alle Abhängigkeiten. Wir analysieren, ordnen und modernisieren bestehende Infrastruktur.
     url: /loesungen/cloud-infrastruktur/
   - number: 2
     title: Wir wollen die Kontrolle über unsere Daten behalten.

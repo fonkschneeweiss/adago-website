@@ -10,4 +10,4 @@ Für KMU, Start-ups, Freiberufliche, Praxen und gemeinnützige Organisationen ü
 
 Das umfasst Microsoft-365-Integration und offene Alternativen, Datei- und Druckdienste, Backup, VPN, mobiles Arbeiten, Cloud-Migration, Domains, DNS, TLS-Zertifikate und Endgeräteverwaltung.
 
-Wir strukturieren Zuständigkeiten und dokumentieren die Umgebung so, dass Wachstum nicht automatisch mehr Chaos bedeutet.
+Wir strukturieren Zuständigkeiten und schaffen Übersicht, damit Wachstum nicht automatisch mehr Chaos bedeutet.

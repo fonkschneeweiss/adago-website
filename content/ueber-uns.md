@@ -38,5 +38,4 @@ Sean verantwortet Softwareentwicklung, Cloud-Infrastruktur und den zuverlässige
 - Anforderungen bestimmen die Technologie, nicht umgekehrt.
 - Offene Standards schaffen langfristige Handlungsfreiheit.
 - Automatisierung reduziert Fehler und wiederkehrenden Aufwand.
-- Dokumentation gehört zum Ergebnis.
 - Gute Übergaben stärken das Wissen in Ihrer Organisation.

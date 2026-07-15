@@ -10,4 +10,4 @@ Daten, Methoden und Auswertungen verändern sich während der Arbeit. Gleichzeit
 
 Wir entwickeln wissenschaftliche Software, automatisieren Datenpipelines und unterstützen Statistik, Machine Learning, Visualisierung und HPC-Umgebungen mit Python und R.
 
-Dabei verbinden wir Forschungsverständnis mit professionellem Software Engineering: Versionskontrolle, Tests, Umgebungsmanagement und verständliche Dokumentation.
+Dabei verbinden wir Forschungsverständnis mit professionellem Software Engineering: Versionskontrolle, Tests und sauberes Umgebungsmanagement.
