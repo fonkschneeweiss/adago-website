@@ -17,7 +17,7 @@ params:
   email: info@adago.org
   address: Lange Straße 16/1, 89160 Dornstadt
   accent: "#1f766e"
-  socialImage: /images/adago-social.png
+  socialImage: /images/adago-logo.avif
 markup:
   goldmark:
     renderer:
