@@ -4,6 +4,11 @@
   width: 150px;
 }
 
+.site-header .brand {
+  flex: 0 0 150px;
+  min-width: 150px;
+}
+
 [data-theme="dark"] .brand img {
   filter: brightness(0) invert(1);
 }
