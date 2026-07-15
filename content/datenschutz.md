@@ -34,7 +34,3 @@ Wir verwenden standardmäßig keine Webanalyse, Marketing-Cookies, extern gelade
 ## Ihre Rechte
 
 Sie haben im Rahmen der gesetzlichen Voraussetzungen Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Sie können sich außerdem bei einer Datenschutzaufsichtsbehörde beschweren.
-
-## Aktualisierung
-
-Diese Hinweise müssen angepasst werden, wenn Hosting, eingebundene Dienste oder Kontaktwege verändert werden. Stand: Juli 2026.
